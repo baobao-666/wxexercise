@@ -43,8 +43,9 @@
 			"list": [
 				{
 					"id": -1,
-					"name": "pages/time/time",
-					"pathName": "pages/time/time",
+					"name": "pages/scroll/scroll",
+					"pathName": "pages/scroll/scroll",
+					"query": "",
 					"scene": null
 				}
 			]
